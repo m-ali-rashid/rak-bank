@@ -19,7 +19,7 @@ npm install
 Install the Podfile for iOS using command
 
 ```sh
-pod install
+cd ios && pod install
 ```
 
 ## Running React Native App
