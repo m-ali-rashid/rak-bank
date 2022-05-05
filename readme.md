@@ -2,7 +2,7 @@
 
 This is a react-native app created as an assessment for RAK Bank
 
-![](https://s8.gifyu.com/images/rak-demo.md.gif)
+![](rak-demo.md.gif)
 
 ## Install Dependencies
 
