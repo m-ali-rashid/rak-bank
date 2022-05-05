@@ -1,6 +1,8 @@
 ## Intro
 
-This is a react-native app created as an assessment for RAK Bank
+This is a react-native app created as an assessment for RAK Bank. When user taps the Submit button, the app posts the data to an express server https://rak-user-api.herokuapp.com/
+
+The repository for the express/node server is at https://github.com/m-ali-rashid/rak-user-api
 
 ![](rak-demo.gif)
 
